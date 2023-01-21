@@ -1,6 +1,6 @@
 <b><h1>TypeCite - Free Citation Generator</h1></b>
 
-<a href="https://www.typecite.com">TypeCite</a> is a citation machine that’s free and easy to use. Our intuitive and powerful software has been designed by experts in the Harvard, MLA, and APA citation systems. TypeCite uses specialist knowledge to provide citations in each of those styles. 
+<a href="https://www.typecite.com">TypeCite is a citation machine</a> that’s free and easy to use. Our intuitive and powerful software has been designed by experts in the Harvard, MLA, and APA citation systems. TypeCite uses specialist knowledge to provide citations in each of those styles. 
 
 We provide free citations for the following source types:
 
